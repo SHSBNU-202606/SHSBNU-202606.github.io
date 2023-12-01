@@ -5,7 +5,7 @@ keywords: null
 author: 北京师大二附中26届6班
 language: en
 timezone: ''
-url: https://lfw08.github.io
+url: https://shsbnu-202606.github.io
 permalink: ':year/:month/:day/:title/'
 permalink_defaults: null
 pretty_urls:
@@ -62,7 +62,7 @@ ignore:
 theme: butterfly
 deploy:
   type: git
-  repo: https://github.com/lfw08/lfw08.github.io
+  repo: https://github.com/shsbnu-202606/shsbnu-202606.github.io
   branch: gh-pages
 github:
   debug: true # enable debug to log github api request/response
