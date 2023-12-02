@@ -57,16 +57,19 @@ updated_option: mtime
 per_page: 10
 pagination_dir: page
 include: null
-exclude: 
-ignore: 
+exclude: null
+ignore: null
 theme: vivia
 deploy:
   type: git
   repo: https://github.com/shsbnu-202606/shsbnu-202606.github.io
   branch: gh-pages
 github:
-  debug: true # enable debug to log github api request/response
-  user: Lfw08 # your github user name
-  timeout: 60000 # set the github api request timeout
-  token: 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 # enable Authorization for github api request, the api request limit will grow up from 60 to 5000
+  debug: true
+  user: Lfw08
+  timeout: 60000
+  token: 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
   cache_dir: gh_cache
+
+archive_ganerator:
+  per_page: 0
