@@ -59,7 +59,7 @@ pagination_dir: page
 include: null
 exclude: 
 ignore: 
-theme: icarus
+theme: bamboo
 deploy:
   type: git
   repo: https://github.com/shsbnu-202606/shsbnu-202606.github.io
