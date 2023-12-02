@@ -32,6 +32,7 @@
     "hexo-theme-icarus": "^5.2.1",
     "hexo-theme-landscape": "^1.0.0",
     "hexo-theme-terminal": "^1.0.1",
+    "hexo-theme-vivia": "^0.4.2",
     "lightgallery": "^2.7.2",
     "nodeppt": "^2.2.2"
   }
