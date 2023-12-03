@@ -794,6 +794,7 @@ valine:
   path: window.location.pathname
   placeholder: 来说点什么吧（支持Markdown）
   avatar: 'identicon'
+  admin: ['SHSBNU-202606','LFW']
   meta: ['nick', 'mail', 'ip']
   requiredFields: ['nick']
   pageSize: 10
