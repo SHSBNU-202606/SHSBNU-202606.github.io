@@ -792,13 +792,15 @@ valine:
   appId: BybJC7BtNRbW5b1T765rnfWE-gzGzoHsz
   appKey: vobdXm2bCXC9YHvZ2UvUIW15
   path: window.location.pathname
-  placeholder:
+  placeholder: 来说点什么吧（支持Markdown）
   avatar: 'identicon'
-  meta: ['nick', 'mail', ]
+  meta: ['nick', 'mail', 'ip']
   requiredFields: ['nick']
   pageSize: 10
   lang: 'zh-CN'
   highlight: false
+  visitor: true
+  avatarForce: true
   recordIP: true
   serverURLs: ''
   emojiCDN:
