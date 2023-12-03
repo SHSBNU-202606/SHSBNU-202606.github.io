@@ -6,7 +6,7 @@ author: 北京师大二附中26届6班
 language: en
 timezone: ''
 url: https://shsbnu-202606.github.io
-permalink: '/post/:title.html'
+permalink: /:year/:month/:day/:title.html
 permalink_defaults: null
 pretty_urls:
   trailing_index: true
