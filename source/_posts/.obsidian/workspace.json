@@ -17,7 +17,27 @@
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "3daa09d1632ad374"
+          }
+        ]
+      },
+      {
+        "id": "21abcaaa19361cad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65af8a447209615f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "About-Us.md",
+                "mode": "preview",
+                "source": false
+              }
+            },
+            "group": "3daa09d1632ad374"
           }
         ]
       }
@@ -146,7 +166,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a38231e27cba0d6b",
+  "active": "65af8a447209615f",
   "lastOpenFiles": [
     "我们是 北京师范大学第二附属中学 2026届6班.md",
     "About-Us.md"
