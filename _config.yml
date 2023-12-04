@@ -72,3 +72,6 @@ github:
   cache_dir: gh_cache
 archive_ganerator:
   per_page: 0
+markdown:
+  plugins:
+    - "@traptitech/markdown-it-katex"
