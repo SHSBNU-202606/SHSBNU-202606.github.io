@@ -163,11 +163,13 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "65af8a447209615f",
+  "active": "a38231e27cba0d6b",
   "lastOpenFiles": [
+    "Pasted image 20231204214246.png",
     "我们是 北京师范大学第二附属中学 2026届6班.md",
     "About-Us.md"
   ]
