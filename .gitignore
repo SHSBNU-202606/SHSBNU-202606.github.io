@@ -8,3 +8,6 @@ public/
 _multiconfig.yml
 source/_posts/vx.json
 source/_posts/vx_notebook/vx_notebook.json
+source/_posts/vx_notebook/notebook.db
+source/_posts/vx_notebook/
+source/_posts/.obsidian/
