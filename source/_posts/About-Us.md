@@ -17,5 +17,3 @@ tags:
 $$\int_{-\infty}^{\infty} \frac{e^{-x^2}}{x} dx = \sqrt{\pi}$$
 $$CuSO_4+2NaOH=Cu(OH)_2+Na_2SO_4$$
 
-### Temp
-https://chat.suko.top/index.html/#/register?inviteCode=t6UFN8he
