@@ -91,7 +91,7 @@ fun_features:
 
     # 游标字符
     # Cursor character
-    cursorChar: "|"
+    cursorChar: "_"
 
     # 是否循环播放效果
     # If true, loop animation
@@ -793,7 +793,7 @@ valine:
   appKey: vobdXm2bCXC9YHvZ2UvUIW15
   path: window.location.pathname
   placeholder: 来说点什么吧（支持Markdown）
-  avatar: 'identicon'
+  avatar: retro
   admin: ['SHSBNU-202606','LFW']
   meta: ['nick', 'mail', 'ip']
   requiredFields: ['nick']
