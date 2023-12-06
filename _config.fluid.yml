@@ -1005,18 +1005,19 @@ links:
       avatar: "/img/fluid.png"
     }
     - {
+      title: "Fluid Repo",
+      intro: "主题 GitHub 仓库",
+      link: "https://github.com/fluid-dev/hexo-theme-fluid",
+      avatar: "/img/fluid.png"
+    }
+    - {
       title: "FLYour",
       intro: "飞悦社",
       link: "https://bbs.flyour.cn/",
       avatar: "/img/flyour.png"
     }
 
-    - {
-      title: "Fluid Repo",
-      intro: "主题 GitHub 仓库",
-      link: "https://github.com/fluid-dev/hexo-theme-fluid",
-      avatar: "/img/fluid.png"
-    }
+    
 
   # 当成员头像加载失败时，替换为指定图片
   # When the member avatar fails to load, replace the specified image
