@@ -71,7 +71,7 @@ code:
       # Select the style button on the right side of the link page, you can also set the CSS link
       # See: https://prismjs.com/
       style: "default"
-      style_dark: "tomorrow night"
+      style_dark: "twilight"
 
       # 设为 true 高亮将本地静态生成（但只支持部分 prismjs 插件），设为 false 高亮将在浏览器通过 js 生成
       # If true, it will be generated locally (but some prismjs plugins are not supported). If false, it will be generated via JS in the browser
